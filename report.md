@@ -1,6 +1,6 @@
 # Assignment 1: Movie Review Sentiment Classification using Embeddings
 
-**Author:** Tanjila Medha  
+**Author:** Tanjila Ahmed Medha  
 **Date:** May 10, 2026
 
 ## Problem Definition
